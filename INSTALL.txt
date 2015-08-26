@@ -28,5 +28,3 @@ make && sudo make install
 cd scan3d-capture/build
 qmake
 make
-
-
